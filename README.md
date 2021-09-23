@@ -11,7 +11,7 @@ The app also implements the following features:
 * Password reset
 * Inference feature, to determine if a passport photo belongs to a child or an adult (Users must confirm their emails after registration to use this feature)
 
-**Setup**\
+**Setup**
 1. Clone the project to your local system git clone https://github.com/MikeKamau/BabyApp.git
 
 2. Create a folder in your Google Drive labeled Training_Photos, with two directories called Adult and Child inside of it containing passport photos of 128 by 128 pixels of adults and children in their respective directories.
