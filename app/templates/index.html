@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block app_content %}
+  <p><b>Welcome to the BabyApp, a simple ML powered app utilizing Fastai and Flask to perform inference on passport photos and determine if they belong to an adult or child</b></p>
+  <p>Currently the model used has an 85% accuracy rate, and is only used for testing and educational purposes.</p>
+  <p>The <b>Fastai</b> model used was trained on <b>Google Colab</b> and is included in the app directory as <b>child_or_not.py</b></p>
+  <p>The app also implements the following features:</p>
+  <p>
+    <ul>
+      <li>User registration</li>
+      <li>Ability to send confirmation emails to registered users</li>
+      <li>Login and logout</li>
+      <li>Password reset</li>
+      <li>Inference feature, to determine if a passport photo belongs to a child or an adult (Users must confirm their emails after registration to use this feature)</li>
+    </ul>
+  </p>
+{% endblock %}
