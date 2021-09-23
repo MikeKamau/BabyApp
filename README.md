@@ -39,7 +39,7 @@ The app also implements the following features:
   * **ADMINS** - Email address of the individual that should receive alerts as per the set logging level
   * **FLASK_ENV** - What context Flask is running in i.e development or production. It defaults to production
 
-7. Change directory into the project folder i.e cd /path/to/babyapp/folder e.g cd babyapp  
+7. Change directory into the project folder i.e cd /path/to/babyapp/folder e.g cd BabyApp  
 
 8. Run the app using the flask run command i.e. flask run  
 
