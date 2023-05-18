@@ -188,4 +188,3 @@ dependencies:
   - zeromq=4.3.4=h2531618_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=haebb681_0
-prefix: /home/kirori/anaconda3/envs/fastai
