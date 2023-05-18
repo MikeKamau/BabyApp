@@ -20,7 +20,7 @@ The app also implements the following features:
 
 4. Upload a 128 x 128 photo to the root of your Google drive and name it What.jpg, to test the model, and once you've trained the model enough and are satisfied with the accuracy export the model using the name "child_or_not.pkl" and download it. You will copy the .pkl file to the app directory within the babyapp project/directory.
 
-5. Create a python virtual environment using the requirements.txt file provided.
+5. Create a python virtual environment using conda and the environment.yml file provided.
 
 6. Set the following environment variables on your system e.g. in your ~/.bashrc file in Linux
 
